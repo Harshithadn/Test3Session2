@@ -1,1 +1,13 @@
+ gcc -g p7final.c
+ ./a.out
+input a fraction
+1
+2
+input a fraction
+2
+3
+the sum of fraction 1/2 and 2/3 is 7/6
+
+
+
 
